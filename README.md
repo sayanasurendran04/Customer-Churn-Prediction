@@ -40,6 +40,3 @@ Results
 
 
 
-Would you like me to generate the **complete full README.md** content (including installation, usage, results, and everything) so you can just copy-paste it in one go? 
-
-Just reply with **"full readme"** and I’ll give you the complete file content.
